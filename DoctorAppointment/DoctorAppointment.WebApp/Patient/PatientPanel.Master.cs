@@ -5,9 +5,9 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace DoctorAppointment.WebApp
+namespace DoctorAppointment.WebApp.Patient
 {
-    public partial class About : Page
+    public partial class PatientPanel : System.Web.UI.MasterPage
     {
         protected void Page_Load(object sender, EventArgs e)
         {

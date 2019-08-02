@@ -7,10 +7,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DoctorAppointment.WebApp {
+namespace DoctorAppointment.WebApp.Admin {
     
     
-    public partial class SiteMaster {
+    public partial class AdminPanel {
         
         /// <summary>
         /// MainContent control.
