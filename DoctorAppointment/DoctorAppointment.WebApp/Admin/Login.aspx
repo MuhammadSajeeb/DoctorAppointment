@@ -19,7 +19,7 @@
         <div class="form-group">
             <asp:Label runat="server" ID="lblusername" AssociatedControlID="txtusername" CssClass="col-md-2 control-label">User Name</asp:Label>
             <div class="col-md-10">
-                <asp:TextBox runat="server" ID="txtusername" CssClass="form-control" />
+                <asp:TextBox runat="server" ID="txtusername" CssClass="form-control"/>
                 <asp:RequiredFieldValidator runat="server" ControlToValidate="txtusername"
                     CssClass="text-danger" ErrorMessage="The UserName field is required." />
             </div>
